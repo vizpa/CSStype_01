@@ -1,2 +1,2 @@
 # CSStype_01
-type anim in CSS
+type animation in CSS
